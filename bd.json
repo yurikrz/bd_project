@@ -1,0 +1,684 @@
+[
+  {
+    "id": 1,
+    "style": "A251423",
+    "price": 12.99,
+    "originalPrice": 34,
+    "description": "Denim & Co. \"How Timeless\" Bermuda Shorts with Pockets",
+    "colors_sizes": [
+      {
+        "code": "CT9",
+        "name": "Peach Sorbet",
+        "img": "./img/A251423-Peach-Sorbet.webp",
+        "color": "#F8CBBA",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "W1",
+        "name": "Maple Brown",
+        "img": "./img/A251423-Maple-Brown.webp",
+        "color": "#8C5A4D",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small"
+          }
+        ]
+      },
+      {
+        "code": "F98",
+        "name": "Light Turquoise",
+        "img": "./img/A251423-Light-Turquoise.webp",
+        "color": "#ADE7EA",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small"
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "style": "A228213",
+    "price": 19.98,
+    "originalPrice": 52,
+    "description": "Denim & Co. Pull-On Front V-Yoke Jeans with Pockets",
+    "colors_sizes": [
+      {
+        "code": "W0",
+        "name": "Antique Berry",
+        "img": "./img/A228213-Antique-Berry.webp",
+        "color": "#D17DA7",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small"
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large"
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large"
+          }
+        ]
+      },
+      {
+        "code": "V47",
+        "name": "Chocolate Brown",
+        "img": "./img/A228213-Chocolate-Brown.webp",
+        "color": "#785143",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "DQ7",
+        "name": "Deep Olive",
+        "img": "./img/A228213-Deep-Olive.webp",
+        "color": "#706A45",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          }
+        ]
+      },
+      {
+        "code": 195,
+        "name": "Teal",
+        "img": "./img/A228213-Teal.webp",
+        "color": "#017AA3",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large"
+          }
+        ]
+      },
+      {
+        "code": "AM2",
+        "name": "Rose Blush",
+        "img": "./img/A228213-Rose-Blush.webp",
+        "color": "#E4C5C4",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "style": "A375346",
+    "price": 24.94,
+    "originalPrice": 38.32,
+    "description": "Denim & Co. Original Waist Stretch Regular Side Pocket Pants - Core",
+    "colors_sizes": [
+      {
+        "code": 30,
+        "name": "Denim",
+        "img": "./img/A375346-Denim.webp",
+        "color": "#6999C2",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "D84",
+        "name": "Bleached Denim",
+        "img": "./img/A375346-Bleached-Denim.webp",
+        "color": "#99BBDB",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": 987,
+        "name": "Chocolate",
+        "img": "./img/A375346-Chocolate.webp",
+        "color": "#6C4539",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          }
+        ]
+      },
+      {
+        "code": 12,
+        "name": "Black",
+        "img": "./img/A375346-Black.webp",
+        "color": "#000000",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large"
+          }
+        ]
+      },
+      {
+        "code": 100,
+        "name": "Khaki",
+        "img": "./img/A375346-Khaki.webp",
+        "color": "#E4DDCF",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large"
+          }
+        ]
+      },
+      {
+        "code": 202,
+        "name": "White",
+        "img": "./img/A375346-White.webp",
+        "color": "#EFEEF3",
+        "sizes": [
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large"
+          }
+        ]
+      },
+      {
+        "code": "DS3",
+        "name": "Bright Navy",
+        "img": "./img/A375346-Bright-Navy.webp",
+        "color": "#1E3176",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "style": "A14925",
+    "price": 16.99,
+    "originalPrice": 43.7,
+    "description": "Denim & Co. Original Waist Stretch Crop Pants with Side Pockets",
+    "colors_sizes": [
+      {
+        "code": "DS3",
+        "name": "Bright Navy",
+        "img": "./img/A14925-Bright-Navy.webp",
+        "color": "#1F2852",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "Z66",
+        "name": "Classic Camel",
+        "img": "./img/A14925-Classic-Camel.jfif",
+        "color": "#A25E3C",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "RO0",
+        "name": "Classic Rose",
+        "img": "./img/A14925-Classic-Rose.webp",
+        "color": "#C7656F",
+        "sizes": [
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small"
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          }
+        ]
+      },
+      {
+        "code": "X36",
+        "name": "Copper Brown",
+        "img": "./img/A14925-Copper-Brown.webp",
+        "color": "#8B2F18",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large"
+          }
+        ]
+      },
+      {
+        "code": 90,
+        "name": "Jade",
+        "img": "./img/A14925-Jade.webp",
+        "color": "#00636A",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large"
+          }
+        ]
+      },
+      {
+        "code": "SX6",
+        "name": "New Amethyst",
+        "img": "./img/A14925-New-Amethyst.jfif",
+        "color": "#743A5B",
+        "sizes": [
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large"
+          }
+        ]
+      },
+      {
+        "code": "CH4",
+        "name": "SoftSpruceGreen",
+        "img": "./img/A14925-SoftSpruceGreen.webp",
+        "color": "#5A6C61",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large"
+          }
+        ]
+      },
+      {
+        "code": "ML6",
+        "name": "Sapphire Blue",
+        "img": "./img/A14925-Sapphire-Blue.webp",
+        "color": "#027CE0",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small"
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large"
+          }
+        ]
+      },
+      {
+        "code": "CH9",
+        "name": "Pink Berry",
+        "img": "./img/A14925-Pink-Berry.webp",
+        "color": "#C55D9E",
+        "sizes": [
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium"
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large"
+          }
+        ]
+      },
+      {
+        "code": "CY2",
+        "name": "Deep Pink",
+        "img": "./img/A14925-Deep-Pink.webp",
+        "color": "#FF5EB5",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "style": "A14924",
+    "price": 15.99,
+    "originalPrice": 43.05,
+    "description": "Denim & Co. Original Waist Stretch Capri Pants with Side Pockets",
+    "colors_sizes": [
+      {
+        "code": 987,
+        "name": "Chocolate",
+        "img": "./img/A14924-Chocolate.jfif",
+        "color": "#70514E",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "Z66",
+        "name": "Classic Camel",
+        "img": "./img/A14924-Classic-Camel.jfif",
+        "color": "#C18253",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "U38",
+        "name": "Light Sage Grn",
+        "img": "./img/A14924-Light-Sage-Grn.jfif",
+        "color": "#BEC0B2",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "HJ1",
+        "name": "New AntiqueRose",
+        "img": "./img/A14924-New-AntiqueRose.webp",
+        "color": "#D78C7C",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "GZ7",
+        "name": "Antique Purple",
+        "img": "./img/A14924-Antique-Purple.webp",
+        "color": "#785E82",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "ET1",
+        "name": "Spring Melon",
+        "img": "./img/A14924-Spring-Melon.webp",
+        "color": "#F6B287",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": "CT5",
+        "name": "Rosebud",
+        "img": "./img/A14924-Bright-Rosebud.webp",
+        "color": "#C060A7",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      },
+      {
+        "code": 3,
+        "name": "Apricot",
+        "img": "./img/A14924-Apricot.webp",
+        "color": "#E67F64",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small"
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small"
+          }
+        ]
+      },
+      {
+        "code": "UH2",
+        "name": "Desert Sage",
+        "img": "./img/A14924-Desert-Sage.webp",
+        "color": "#C8CBB8",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small"
+          }
+        ]
+      }
+    ]
+  }
+]
