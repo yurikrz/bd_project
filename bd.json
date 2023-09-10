@@ -17,6 +17,7 @@
             "size": "XXS",
             "size_descrp": "XX-Small"
           }
+
         ]
       },
       {
@@ -149,7 +150,7 @@
         ]
       },
       {
-        "code": 195,
+        "code": "195",
         "name": "Teal",
         "img": "./assets/img/A228213-Teal.webp",
         "color": "#017AA3",
@@ -204,7 +205,7 @@
     "description": "Denim & Co. Original Waist Stretch Regular Side Pocket Pants - Core",
     "colors_sizes": [
       {
-        "code": 30,
+        "code": "030",
         "name": "Denim",
         "img": "./assets/img/A375346-Denim.webp",
         "color": "#6999C2",
@@ -230,7 +231,7 @@
         ]
       },
       {
-        "code": 987,
+        "code": "987",
         "name": "Chocolate",
         "img": "./assets/img/A375346-Chocolate.webp",
         "color": "#6C4539",
@@ -253,7 +254,7 @@
         ]
       },
       {
-        "code": 12,
+        "code": "012",
         "name": "Black",
         "img": "./assets/img/A375346-Black.webp",
         "color": "#000000",
@@ -276,7 +277,7 @@
         ]
       },
       {
-        "code": 100,
+        "code": "100",
         "name": "Khaki",
         "img": "./assets/img/A375346-Khaki.webp",
         "color": "#E4DDCF",
@@ -294,7 +295,7 @@
         ]
       },
       {
-        "code": 202,
+        "code": "202",
         "name": "White",
         "img": "./assets/img/A375346-White.webp",
         "color": "#EFEEF3",
@@ -421,7 +422,7 @@
         ]
       },
       {
-        "code": 90,
+        "code": "090",
         "name": "Jade",
         "img": "./assets/img/A14925-Jade.webp",
         "color": "#00636A",
@@ -553,7 +554,7 @@
     "description": "Denim & Co. Original Waist Stretch Capri Pants with Side Pockets",
     "colors_sizes": [
       {
-        "code": 987,
+        "code": "987",
         "name": "Chocolate",
         "img": "./assets/img/A14924-Chocolate.jfif",
         "color": "#70514E",
@@ -644,7 +645,7 @@
         ]
       },
       {
-        "code": 3,
+        "code": "003",
         "name": "Apricot",
         "img": "./assets/img/A14924-Apricot.webp",
         "color": "#E67F64",
