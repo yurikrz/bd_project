@@ -3,7 +3,7 @@
     "id": 1,
     "style": "A251423",
     "price": 12.99,
-    "originalPrice": 34,
+    "originalPrice": 34.00,
     "description": "Denim & Co. \"How Timeless\" Bermuda Shorts with Pockets",
     "colors_sizes": [
       {
@@ -71,7 +71,7 @@
     "id": 2,
     "style": "A228213",
     "price": 19.98,
-    "originalPrice": 52,
+    "originalPrice": 52.00,
     "description": "Denim & Co. Pull-On Front V-Yoke Jeans with Pockets",
     "colors_sizes": [
       {
@@ -345,7 +345,7 @@
     "id": 4,
     "style": "A14925",
     "price": 16.99,
-    "originalPrice": 43.7,
+    "originalPrice": 43.70,
     "description": "Denim & Co. Original Waist Stretch Crop Pants with Side Pockets",
     "colors_sizes": [
       {
