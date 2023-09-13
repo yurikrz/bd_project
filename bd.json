@@ -15,9 +15,9 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 7
           }
-
         ]
       },
       {
@@ -29,12 +29,14 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 15
           },
           {
             "id": 2,
             "size": "XS",
-            "size_descrp": "X-Small"
+            "size_descrp": "X-Small",
+            "stock": 3
           }
         ]
       },
@@ -47,22 +49,26 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 23
           },
           {
             "id": 2,
             "size": "XS",
-            "size_descrp": "X-Small"
+            "size_descrp": "X-Small",
+            "stock": 13
           },
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 30
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 36
           }
         ]
       }
@@ -84,32 +90,38 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 30
           },
           {
             "id": 2,
             "size": "XS",
-            "size_descrp": "X-Small"
+            "size_descrp": "X-Small",
+            "stock": 3
           },
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 19
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 45
           },
           {
             "id": 5,
             "size": "L",
-            "size_descrp": "Large"
+            "size_descrp": "Large",
+            "stock": 39
           },
           {
             "id": 6,
             "size": "XL",
-            "size_descrp": "X-Large"
+            "size_descrp": "X-Large",
+            "stock": 69
           }
         ]
       },
@@ -122,7 +134,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 11
           }
         ]
       },
@@ -135,17 +148,20 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 13
           },
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 23
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 26
           }
         ]
       },
@@ -158,17 +174,20 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 28
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 30
           },
           {
             "id": 6,
             "size": "XL",
-            "size_descrp": "X-Large"
+            "size_descrp": "X-Large",
+            "stock": 34
           }
         ]
       },
@@ -181,17 +200,20 @@
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 5
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 13
           },
           {
             "id": 5,
             "size": "L",
-            "size_descrp": "Large"
+            "size_descrp": "Large",
+            "stock": 23
           }
         ]
       }
@@ -213,7 +235,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 22
           }
         ]
       },
@@ -226,7 +249,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 36
           }
         ]
       },
@@ -239,17 +263,20 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 13
           },
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 18
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 27
           }
         ]
       },
@@ -262,17 +289,20 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 40
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 42
           },
           {
             "id": 6,
             "size": "XL",
-            "size_descrp": "X-Large"
+            "size_descrp": "X-Large",
+            "stock": 22
           }
         ]
       },
@@ -285,12 +315,14 @@
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 24
           },
           {
             "id": 5,
             "size": "L",
-            "size_descrp": "Large"
+            "size_descrp": "Large",
+            "stock": 29
           }
         ]
       },
@@ -303,17 +335,20 @@
           {
             "id": 2,
             "size": "XS",
-            "size_descrp": "X-Small"
+            "size_descrp": "X-Small",
+            "stock": 14
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 16
           },
           {
             "id": 5,
             "size": "L",
-            "size_descrp": "Large"
+            "size_descrp": "Large",
+            "stock": 19
           }
         ]
       },
@@ -326,17 +361,20 @@
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 27
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 20
           },
           {
             "id": 5,
             "size": "L",
-            "size_descrp": "Large"
+            "size_descrp": "Large",
+            "stock": 41
           }
         ]
       }
@@ -358,7 +396,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 42
           }
         ]
       },
@@ -371,7 +410,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 43
           }
         ]
       },
@@ -384,17 +424,20 @@
           {
             "id": 2,
             "size": "XS",
-            "size_descrp": "X-Small"
+            "size_descrp": "X-Small",
+            "stock": 17
           },
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 16
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 14
           }
         ]
       },
@@ -407,17 +450,20 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 8
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 1
           },
           {
             "id": 6,
             "size": "XL",
-            "size_descrp": "X-Large"
+            "size_descrp": "X-Large",
+            "stock": 3
           }
         ]
       },
@@ -430,12 +476,14 @@
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 13
           },
           {
             "id": 5,
             "size": "L",
-            "size_descrp": "Large"
+            "size_descrp": "Large",
+            "stock": 15
           }
         ]
       },
@@ -448,17 +496,20 @@
           {
             "id": 2,
             "size": "XS",
-            "size_descrp": "X-Small"
+            "size_descrp": "X-Small",
+            "stock": 7
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 20
           },
           {
             "id": 5,
             "size": "L",
-            "size_descrp": "Large"
+            "size_descrp": "Large",
+            "stock": 27
           }
         ]
       },
@@ -471,17 +522,20 @@
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 30
           },
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 13
           },
           {
             "id": 5,
             "size": "L",
-            "size_descrp": "Large"
+            "size_descrp": "Large",
+            "stock": 19
           }
         ]
       },
@@ -494,17 +548,20 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 24
           },
           {
             "id": 2,
             "size": "XS",
-            "size_descrp": "X-Small"
+            "size_descrp": "X-Small",
+            "stock": 23
           },
           {
             "id": 6,
             "size": "XL",
-            "size_descrp": "X-Large"
+            "size_descrp": "X-Large",
+            "stock": 27
           }
         ]
       },
@@ -517,12 +574,14 @@
           {
             "id": 4,
             "size": "M",
-            "size_descrp": "Medium"
+            "size_descrp": "Medium",
+            "stock": 24
           },
           {
             "id": 5,
             "size": "L",
-            "size_descrp": "Large"
+            "size_descrp": "Large",
+            "stock": 14
           }
         ]
       },
@@ -535,12 +594,14 @@
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 37
           },
           {
             "id": 5,
             "size": "L",
-            "size_descrp": "Large"
+            "size_descrp": "Large",
+            "stock": 46
           }
         ]
       }
@@ -562,7 +623,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 42
           }
         ]
       },
@@ -575,7 +637,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 32
           }
         ]
       },
@@ -588,7 +651,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 21
           }
         ]
       },
@@ -601,7 +665,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 19
           }
         ]
       },
@@ -614,7 +679,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 17
           }
         ]
       },
@@ -627,7 +693,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 16
           }
         ]
       },
@@ -640,7 +707,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 24
           }
         ]
       },
@@ -653,17 +721,20 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 21
           },
           {
             "id": 2,
             "size": "XS",
-            "size_descrp": "X-Small"
+            "size_descrp": "X-Small",
+            "stock": 20
           },
           {
             "id": 3,
             "size": "S",
-            "size_descrp": "Small"
+            "size_descrp": "Small",
+            "stock": 7
           }
         ]
       },
@@ -676,7 +747,8 @@
           {
             "id": 1,
             "size": "XXS",
-            "size_descrp": "XX-Small"
+            "size_descrp": "XX-Small",
+            "stock": 1
           }
         ]
       }
