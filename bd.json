@@ -402,6 +402,26 @@
         ]
       },
       {
+        "code": "987",
+        "name": "Chocolate",
+        "img": "./assets/img/A14925-Chocolate.webp",
+        "color": "#613E31",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 13
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 13
+          }
+        ]
+      },
+      {
         "code": "Z66",
         "name": "Classic Camel",
         "img": "./assets/img/A14925-Classic-Camel.jfif",
@@ -468,10 +488,56 @@
         ]
       },
       {
+        "code": "JR2",
+        "name": "Deseart Coral",
+        "img": "./assets/img/A14925-Deseart-Coral.webp",
+        "color": "#B35452",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 8
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium",
+            "stock": 1
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          }
+        ]
+      },
+      {
         "code": "090",
         "name": "Jade",
         "img": "./assets/img/A14925-Jade.webp",
         "color": "#00636A",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 13
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 15
+          }
+        ]
+      },
+      {
+        "code": "130",
+        "name": "Navy",
+        "img": "./assets/img/A14925-Navy.jfif",
+        "color": "#282D47",
         "sizes": [
           {
             "id": 3,
@@ -514,7 +580,99 @@
         ]
       },
       {
-        "code": "CH4",
+        "code": "HJ1",
+        "name": "New AntiqueRose",
+        "img": "./assets/img/A14925-New-AntiqueRose.webp",
+        "color": "#D48872",
+        "sizes": [
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 7
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "code": "077",
+        "name": "Putty",
+        "img": "./assets/img/A14925-Putty.jfif",
+        "color": "#BDB6A9",
+        "sizes": [
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium",
+            "stock": 20
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 17
+          }
+        ]
+      },
+      {
+        "code": "AN2",
+        "name": "Riviera Blue",
+        "img": "./assets/img/A14925-Riviera-Blue.webp",
+        "color": "#5A99CA",
+        "sizes": [
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 7
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium",
+            "stock": 20
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 27
+          }
+        ]
+      },
+      {
+        "code": "IR9",
+        "name": "Slate Green",
+        "img": "./assets/img/A14925-Slate-Green.webp",
+        "color": "#8F7A64",
+        "sizes": [
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 7
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium",
+            "stock": 20
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 27
+          }
+        ]
+      },
+      {
+        "code": "OH4",
         "name": "SoftSpruceGreen",
         "img": "./assets/img/A14925-SoftSpruceGreen.webp",
         "color": "#5A6C61",
@@ -582,6 +740,94 @@
             "size": "L",
             "size_descrp": "Large",
             "stock": 14
+          }
+        ]
+      },
+      {
+        "code": "195",
+        "name": "Teal",
+        "img": "./assets/img/A14925-Teal.webp",
+        "color": "#00749F",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 2
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "code": "003",
+        "name": "Apricot",
+        "img": "./assets/img/A14925-Apricot.webp",
+        "color": "#CC6B5A",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 37
+          }
+        ]
+      },
+      {
+        "code": "SH8",
+        "name": "Dark Slate",
+        "img": "./assets/img/A14925-Dark-Slate.webp",
+        "color": "#304B64",
+        "sizes": [
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 46
+          }
+        ]
+      },
+      {
+        "code": "L85",
+        "name": "Medium Coral",
+        "img": "./assets/img/A14925-Medium-Coral.webp",
+        "color": "#EA6F6E",
+        "sizes": [
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Medium",
+            "stock": 37
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 46
+          }
+        ]
+      },
+      {
+        "code": "F98",
+        "name": "Light Turquoise",
+        "img": "./assets/img/A14925-Light-Turquoise.webp",
+        "color": "#A0E2E0",
+        "sizes": [
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 7
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 6
           }
         ]
       },
@@ -753,5 +999,893 @@
         ]
       }
     ]
+  },
+  {
+    "id": 6,
+    "style": "A604062",
+    "price": 55.59,
+    "originalPrice": 60.05,
+    "description": "Quacker Factory DreamJeannes Sparkle and Shine Tulip Hem Capr",
+    "colors_sizes": [
+      {
+        "code": "S55",
+        "name": "Dark Indigo",
+        "img": "./assets/img/A604062-Dark-Indigo.webp",
+        "color": "#080C2A",
+        "sizes": [
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "X-Large",
+            "stock": 21
+          }
+        ]
+      },
+      {
+        "code": "202",
+        "name": "White",
+        "img": "./assets/img/A604062-White.webp",
+        "color": "#EEEEEE",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 5
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 8
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          },
+          {
+            "id": 7,
+            "size": "1X",
+            "size_descrp": "Size 1X",
+            "stock": 4
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "012",
+        "name": "Black",
+        "img": "./assets/img/A604062-Black.webp",
+        "color": "#000000",
+        "sizes": [
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 15
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 3
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 7
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 16
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "style": "A393434",
+    "price": 55.00,
+    "originalPrice": 59.99,
+    "description": "Quacker Factory DreamJeannes Pedal Pushers w/ Rhinestone Grommets",
+    "colors_sizes": [
+      {
+        "code": "BM5",
+        "name": "Barely Pink",
+        "img": "./assets/img/A393434-Barely-Pink.webp",
+        "color": "#ECE6E4",
+        "sizes": [
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 9
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 11
+          }
+        ]
+      },
+      {
+        "code": "CY7",
+        "name": "Medium Wash",
+        "img": "./assets/img/A393434-Medium-Wash.webp",
+        "color": "#486F96",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 3
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 5
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          }
+        ]
+      },
+      {
+        "code": "202",
+        "name": "White",
+        "img": "./assets/img/A393434-White.webp",
+        "color": "#EEEEEE",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 8
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "I02",
+        "name": "Dark Olive",
+        "img": "./assets/img/A393434-Dark-Olive.webp",
+        "color": "#455C34",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 4
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 5
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 8
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          },
+          {
+            "id": 7,
+            "size": "1X",
+            "size_descrp": "Size 1X",
+            "stock": 4
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "D18",
+        "name": "Espresso",
+        "img": "./assets/img/A393434-Espresso.jfif",
+        "color": "#462925",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 4
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "406",
+        "name": "Kelly Green",
+        "img": "./assets/img/A393434-Kelly-Green.webp",
+        "color": "#008258",
+        "sizes": [
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 4
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 5
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 8
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          },
+          {
+            "id": 7,
+            "size": "1X",
+            "size_descrp": "Size 1X",
+            "stock": 4
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "S55",
+        "name": "Dark Indigo",
+        "img": "./assets/img/A393434-Dark-Indigo.webp",
+        "color": "#171E3A",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 4
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "code": "012",
+        "name": "Black",
+        "img": "./assets/img/A393434-Black.webp",
+        "color": "#000000",
+        "sizes": [
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "style": "A613721",
+    "price": 39.99,
+    "originalPrice": 59.98,
+    "description": "Quacker Factory DreamJeannes Leggings w/ Embroidered Leaves",
+    "colors_sizes": [
+      {
+        "code": "S55",
+        "name": "Dark Indigo",
+        "img": "./assets/img/A613721-Dark-Indigo.webp",
+        "color": "#1B3A7A",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 8
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          },
+          {
+            "id": 7,
+            "size": "1X",
+            "size_descrp": "Size 1X",
+            "stock": 4
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "D18",
+        "name": "Espresso",
+        "img": "./assets/img/A613721-Espresso.webp",
+        "color": "#4A2D2B",
+        "sizes": [
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "style": "A354582",
+    "price": 60.00,
+    "originalPrice": 65.99,
+    "description": "Quacker Factory DreamJeanne 5 Pocket Crop Pant",
+    "colors_sizes": [
+      {
+        "code": "CA9",
+        "name": "Candy Pink",
+        "img": "./assets/img/A354582-Candy-Pink.webp",
+        "color": "#F8D1D5",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 5
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 8
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "CY7",
+        "name": "Medium Wash",
+        "img": "./assets/img/A354582-Medium-Wash.webp",
+        "color": "#6B82AC",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 4
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          },
+          {
+            "id": 7,
+            "size": "1X",
+            "size_descrp": "Size 1X",
+            "stock": 4
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "202",
+        "name": "White",
+        "img": "./assets/img/A354582-White.webp",
+        "color": "#EEEEEE",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 4
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 5
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "style": "A475516",
+    "price": 63.00,
+    "originalPrice": 65.99,
+    "description": "Belle by Kim Gravel Regular Flexibelle Capri Jeans",
+    "colors_sizes": [
+      {
+        "code": "848",
+        "name": "Ice Water",
+        "img": "./assets/img/A475516-Ice-Water.webp",
+        "color": "#E2E8EB",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 4
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 5
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 8
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "Z42",
+        "name": "Rinse Wash",
+        "img": "./assets/img/A475516-Rinse-Wash.jfif",
+        "color": "#24426C",
+        "sizes": [
+          {
+            "id": 7,
+            "size": "1X",
+            "size_descrp": "Size 1X",
+            "stock": 4
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "430",
+        "name": "Stone",
+        "img": "./assets/img/A475516-Stone.webp",
+        "color": "#E3D7CE",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 4
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 5
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 8
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          }
+        ]
+      },
+      {
+        "code": "RS5",
+        "name": "Classic Wash",
+        "img": "./assets/img/A475516-Classic-Wash.webp",
+        "color": "#4D7190",
+        "sizes": [
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 5
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 8
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          },
+          {
+            "id": 7,
+            "size": "1X",
+            "size_descrp": "Size 1X",
+            "stock": 4
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "S55",
+        "name": "Dark Indigo",
+        "img": "./assets/img/A475516-Dark-Indigo.webp",
+        "color": "#15284F",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 2,
+            "size": "XS",
+            "size_descrp": "X-Small",
+            "stock": 4
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          },
+          {
+            "id": 6,
+            "size": "XL",
+            "size_descrp": "X-Large",
+            "stock": 3
+          },
+          {
+            "id": 7,
+            "size": "1X",
+            "size_descrp": "Size 1X",
+            "stock": 4
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      },
+      {
+        "code": "202",
+        "name": "White",
+        "img": "./assets/img/A475516-White.webp",
+        "color": "#E8E7EC",
+        "sizes": [
+          {
+            "id": 1,
+            "size": "XXS",
+            "size_descrp": "XX-Small",
+            "stock": 2
+          },
+          {
+            "id": 3,
+            "size": "S",
+            "size_descrp": "Small",
+            "stock": 5
+          },
+          {
+            "id": 4,
+            "size": "M",
+            "size_descrp": "Midium",
+            "stock": 5
+          },
+          {
+            "id": 5,
+            "size": "L",
+            "size_descrp": "Large",
+            "stock": 8
+          },
+          {
+            "id": 8,
+            "size": "2X",
+            "size_descrp": "Size 2X",
+            "stock": 6
+          },
+          {
+            "id": 9,
+            "size": "3X",
+            "size_descrp": "Size 3X",
+            "stock": 12
+          }
+        ]
+      }
+    ]
   }
 ]
+
